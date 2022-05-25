@@ -4,7 +4,7 @@ A curated list of awesome Taichi applications, courses, demos and features.
 
 ## **Table of Contents**
 
-- [Installation of Taichi](#installation of taichi)
+- [Installation of Taichi](#installation-of-taichi)
 - [Contributing](#contributing)
 - [Applications](#applications)
   - [Compiler](#compiler)
@@ -14,7 +14,7 @@ A curated list of awesome Taichi applications, courses, demos and features.
   - [Robotics](#robotics)
   - [Shader](#shader)
   - [Simulation](#simulation)
-  - [Procedural Content Generation](#procedural content generation)
+  - [Procedural Content Generation](#procedural-content-generation)
 - [Courses](#courses)
 
 
