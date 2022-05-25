@@ -44,7 +44,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Compiler**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/fractal_small-2.gif" width="50%" />
+<img src="/Users/siqiwu/Downloads/fractal_small-2.gif" alt="fractal_small-2" style="zoom:50%;" />
 
 ### **Game**
 
@@ -72,8 +72,8 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 **[`^        See more        ^`](simulation.md)**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="45%;" /><img src="/Users/siqiwu/Downloads/flip_0.gif" alt="flip_0" style="zoom:30%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="25%">
-
+<img src="/Users/siqiwu/Downloads/DambreakPICFLIP.gif" alt="DambreakPICFLIP" style="zoom:45%;" /><img src="/Users/siqiwu/Downloads/flip_0.gif" alt="flip_0" style="zoom:30%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="25%">
 <img src="/Users/siqiwu/Downloads/bc2_res1600_re100_cip_vc1_norm.jpg" alt="bc2_res1600_re100_cip_vc1_norm" style="zoom:25%;" /><img src="/Users/siqiwu/Downloads/taichi.gif" alt="taichi" style="zoom:42%;" />
 
 
