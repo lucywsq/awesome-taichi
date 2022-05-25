@@ -4,17 +4,17 @@ A curated list of awesome Taichi applications, courses, demos and features.
 
 ## **Table of Contents**
 
-- [Installation of Taichi](installation of taichi)
-- [Contributing](contributing)
-- [Applications](applications)
-  - [Compiler](compiler)
-  - [Game](game)
-  - [Math](Math)
-  - [Renderer](renderer)
-  - [Robotics](Robotics)
-  - [Shader](shader)
-  - [Simulation](simulation)
-  - [Procedural Content Generation](procedural content generation)
+- [Installation of Taichi]("installation of taichi")
+- [Contributing]("contributing")
+- [Applications]("applications")
+  - [Compiler]("compiler")
+  - [Game]("game")
+  - [Math]("math")
+  - [Renderer]("renderer")
+  - [Robotics]("robotics")
+  - [Shader]("shader")
+  - [Simulation]("simulation")
+  - [Procedural Content Generation]("procedural content generation")
 - [Courses](courses)
 
 
