@@ -60,7 +60,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Robotics**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/writerdemo.gif" width="33%" />
 
 ### **Shader**
 
