@@ -64,13 +64,15 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Shader**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%"></img><a>
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="50%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%"></img><a>
 
 ### **Simulation**
 
 **[`^        See more        ^`](https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/applications-simulation.md)**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/DambreakPICFLIP.gif" width="45%;"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/taichi.gif" width="30%"></img><a>
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/DambreakPICFLIP.gif" width="45%;"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%"></img><a> 
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="30%"></img><a>  
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/taichi.gif" width="30%"></img><a>
 
 
 
