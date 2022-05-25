@@ -44,11 +44,11 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Compiler**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/fractal_small-2.gif" width="50%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/fractal_small-2.gif" width="50%"></img><a>
 
 ### **Game**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-2.gif" width="25%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-2.gif" width="25%"></img><a>
 
 ### **Math**
 
@@ -56,27 +56,27 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Renderer**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%"></img><a>
 
 ### **Robotics**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/writerdemo.gif" width="33%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/writerdemo.gif" width="33%"></img><a>
 
 ### **Shader**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="30%" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%"></img><a>
 
 ### **Simulation**
 
 **[`^        See more        ^`](https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/applications-simulation.md)**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/DambreakPICFLIP.gif" width="45%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="30%"><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="30%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/taichi.gif" width="30%;"/>
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/DambreakPICFLIP.gif" width="45%;"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/taichi.gif" width="30%"></img><a>
 
 
 
 ### **Procedural Content Generation**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/leon.gif" width="53%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/leon.gif" width="53%"></img><a>
 
 
 
