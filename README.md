@@ -71,8 +71,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 **[`^        See more        ^`](https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/applications-simulation.md)**
 
 <img src="/Users/siqiwu/Downloads/DambreakPICFLIP.gif" alt="DambreakPICFLIP" style="zoom:45%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%;" />
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="25%">
-<img src="/Users/siqiwu/Downloads/bc2_res1600_re100_cip_vc1_norm.jpg" alt="bc2_res1600_re100_cip_vc1_norm" style="zoom:25%;" /><img src="/Users/siqiwu/Downloads/taichi.gif" alt="taichi" style="zoom:42%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="25%"><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="25%;" /><img src="/Users/siqiwu/Downloads/taichi.gif" alt="taichi" style="zoom:42%;" />
 
 
 
