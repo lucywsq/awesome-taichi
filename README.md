@@ -44,7 +44,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Compiler**
 
-<img src="/Users/siqiwu/Downloads/fractal_small-2.gif" alt="fractal_small-2" style="zoom:50%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/fractal_small-2.gif" width="50%" />
 
 ### **Game**
 
