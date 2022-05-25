@@ -70,7 +70,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Simulation**
 
-**[`^        See more        ^`](simulation.md)**
+**[`^        See more        ^`]([simulation.md](https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/applications-simulation.md))**
 
 <img src="/Users/siqiwu/Downloads/DambreakPICFLIP.gif" alt="DambreakPICFLIP" style="zoom:45%;" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%;" />
 <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="25%">
