@@ -56,17 +56,15 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Renderer**
 
-
-
-<img src="/Users/siqiwu/Downloads/bmw.png" alt="bmw" style="zoom:33%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%" />
 
 ### **Robotics**
 
-<img src="/Users/siqiwu/Downloads/writer_demo.gif" alt="writer_demo" style="zoom:33%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%" />
 
 ### **Shader**
 
-<img src="/Users/siqiwu/Downloads/demo-3.gif" alt="demo-3" style="zoom:63%;" /><img src="/Users/siqiwu/Downloads/0.png" alt="0" style="zoom:28%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="63%" /><img src="/Users/siqiwu/Downloads/0.png" alt="0" style="zoom:28%;" />
 
 ### **Simulation**
 
