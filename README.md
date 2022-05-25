@@ -37,7 +37,7 @@ More information can be found in [Taichi's Documentation](https://docs.taichi.gr
 
 ## **Contributing**
 
-Please take a quick gander at the [Contribution guide](https://github.com/taichi-dev/taichi/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/taichi-dev/taichi/graphs/contributors).
+If you would like to participate, check out the [Contribution Guidelines](https://github.com/taichi-dev/taichi/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/taichi-dev/taichi/graphs/contributors).
 
 
 ## **Applications**
