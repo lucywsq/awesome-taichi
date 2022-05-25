@@ -48,7 +48,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Game**
 
-<img src="/Users/siqiwu/Downloads/demo-2.gif" alt="demo-2" style="zoom:25%;" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-2.gif" width="25%" />
 
 ### **Math**
 
