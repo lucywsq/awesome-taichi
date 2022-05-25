@@ -64,7 +64,7 @@ Please take a quick gander at the [Contribution guide](https://github.com/taichi
 
 ### **Shader**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="63%" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%" />
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="30%" /><img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%" />
 
 ### **Simulation**
 
