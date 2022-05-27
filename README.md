@@ -16,25 +16,25 @@ A curated list of awesome Taichi applications, courses.
 
 ## Applications
 
-### **Compiler**
+## **Compiler**
 
 
-### **Game**
+## **Game**
 
 
-### **Math**
+## **Math**
 
 
-### **Renderer**
+## **Renderer**
 
 
-### **Robotics**
+## **Robotics**
 
 
-### **Shader**
+## **Shader**
 
 
-### **Simulation**
+## **Simulation**
 
 
 
@@ -46,7 +46,7 @@ A curated list of awesome Taichi applications, courses.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using taichi.
 
-### **Procedural Content Generation**
+## **Procedural Content Generation**
 
 
 
