@@ -1,7 +1,7 @@
 # Awesome Taichi
 A curated list of awesome Taichi applications, courses.
 
-
+- [Awesome Taichi]
 - [Applications](#applications)
     - [Compiler](#compiler)
     - [Game](#game)
@@ -14,56 +14,48 @@ A curated list of awesome Taichi applications, courses.
 - [Courses](#courses)
 
 
-
-## **Applications**
+## Applications
 
 ### **Compiler**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/fractal_small-2.gif" width="50%"></img><a>
 
 ### **Game**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-2.gif" width="25%"></img><a>
 
 ### **Math**
 
 
-
 ### **Renderer**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bmw.png" width="33%"></img><a>
 
 ### **Robotics**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/writerdemo.gif" width="33%"></img><a>
 
 ### **Shader**
 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/demo-3.gif" width="50%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/0.png" width="30%"></img><a>
 
 ### **Simulation**
 
-**[`^        See more        ^`](https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/applications-simulation.md)**
-
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/DambreakPICFLIP.gif" width="45%;"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif" width="30%"></img><a> 
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/pbd_cloth.gif" width="30%"></img><a>  <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/bc2_res1600_re100_cip_vc1_norm.jpg" width="30%"></img><a>  
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/taichi.gif" width="30%"></img><a>
 
 
+* [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
+* [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning Physics Simulation using Taichi.
+* [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A specification of a C standard library for POSIX systems.
+* [LHCSim](https://github.com/Robslhc/LHCSim) - LHCSim is a 3D physics simulation engine developed based on taichi.
+* [Liquid simulation](https://github.com/lyd405121/wcsph) - Using taichi to create SPH simulation. 
+* [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
+* [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using taichi.
 
 ### **Procedural Content Generation**
-
-<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/leon.gif" width="53%"></img><a>
 
 
 
 ## Courses
 
-- [GAMES 201: Advanced Physics Engines ](https://github.com/taichi-dev/games201)[2020](https://github.com/taichi-dev/games201)(Chinese)
-- [Taichi Graphics Course S1](https://github.com/taichiCourse01)(Chinese)
+* [GAMES 201: Advanced Physics Engines ](https://github.com/taichi-dev/games201)[2020](https://github.com/taichi-dev/games201)(Chinese)
+* [Taichi Graphics Course S1](https://github.com/taichiCourse01)(Chinese)
 
 
 ## **Contributing**
 
 If you would like to participate, check out the [Contribution Guidelines](https://github.com/taichi-dev/taichi/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/taichi-dev/taichi/graphs/contributors).
-
