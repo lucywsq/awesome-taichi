@@ -14,7 +14,6 @@ A curated list of awesome Taichi applications, courses.
 - [Courses](#courses)
 
 
-## Applications
 
 ## **Compiler**
 
