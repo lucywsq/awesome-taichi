@@ -55,6 +55,3 @@ A curated list of awesome Taichi applications, courses.
 * [Taichi Graphics Course S1](https://github.com/taichiCourse01)(Chinese)
 
 
-## **Contributing**
-
-If you would like to participate, check out the [Contribution Guidelines](https://github.com/taichi-dev/taichi/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/taichi-dev/taichi/graphs/contributors).
