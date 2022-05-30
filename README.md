@@ -35,6 +35,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Simulation**
 
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/simulation-group.jpg" width="60%"></img>
 
 
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
