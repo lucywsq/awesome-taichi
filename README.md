@@ -17,21 +17,33 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Compiler**
 
+* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - 
+*
+
 
 ## **Game**
+
+* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - 
 
 
 ## **Math**
 
+* [Taichi-Math-Playgound](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
 
 ## **Renderer**
+
+* [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) - 
 
 
 ## **Robotics**
 
+* [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - 
+* [CPDeform](https://github.com/lester0866/CPDeform) - 
 
 ## **Shader**
 
+* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - 
+* [Tunnel-Shader-Imitation](https://github.com/StanislavPetrovV/Tunnel-Shader-Imitation) - 
 
 ## **Simulation**
 
