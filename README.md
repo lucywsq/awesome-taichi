@@ -32,7 +32,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Renderer**
 
-* [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) - 
+* [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) - A GPU renderer for prototyping and research written purely in python.
 
 
 ## **Robotics**
