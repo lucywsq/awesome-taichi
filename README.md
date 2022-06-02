@@ -23,7 +23,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Game**
 
-* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - 
+* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 
 
 ## **Math**
