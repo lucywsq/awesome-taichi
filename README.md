@@ -43,7 +43,7 @@ A curated list of awesome Taichi applications, courses.
 ## **Shader**
 
 * [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - 
-* [Tunnel-Shader-Imitation](https://github.com/StanislavPetrovV/Tunnel-Shader-Imitation) - 
+* [Tunnel-Shader-Imitation](https://github.com/StanislavPetrovV/Tunnel-Shader-Imitation) - OpenGL(GLSL) fragment shader Tunnel imitation in Python using Pygame, Numpy, Taichi.
 
 ## **Simulation**
 
