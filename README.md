@@ -59,7 +59,7 @@ A curated list of awesome Taichi applications, courses.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
 
 ## **Procedural Content Generation**
-
+* [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - 
 
 
 ## Courses
