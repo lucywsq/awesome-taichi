@@ -71,7 +71,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/MmmmHeee/SPH-2D-Taichi">
-        <img width="260" src="https://github.com/Taichi-contributor/test001/blob/main/SPH-2D.gif"> 
+        <img width="270" src="https://github.com/Taichi-contributor/test001/blob/main/SPH-2D.gif"> 
     </a>
 
 [SPH-2D](https://github.com/MmmmHeee/SPH-2D-Taichi)
@@ -81,7 +81,7 @@ A curated list of awesome Taichi applications, courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ethz-pbs21/SandyFluid">
-        <img width="230" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/tgchomework-SandPile-Model.gif">
+        <img width="340" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/images/flip_0.gif">
      </a>
        
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
