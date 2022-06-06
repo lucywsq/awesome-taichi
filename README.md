@@ -50,21 +50,32 @@ A curated list of awesome Taichi applications, courses.
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
+   <div align = "center">
+     <a href="https://github.com/lyd405121/wcsph">
+        <img width="400" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/wcsph.gif">   
+     </a>  
+       
+[Liquid simulation](https://github.com/lyd405121/wcsph) 
+       
+   </td>
+  <td style="text-align: center">
+  <div align = "center">
+    <a href="https://github.com/Robslhc/LHCSim">
+       <img width="260" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/LHCSim.gif">
+    </a>
+      
+[LHCSim](https://github.com/Robslhc/LHCSim)
+     
+       
+  </td>
+  <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/MmmmHeee/SPH-2D-Taichi">
         <img width="260" src="https://github.com/Taichi-contributor/test001/blob/main/SPH-2D.gif"> 
     </a>
 
 [SPH-2D](https://github.com/MmmmHeee/SPH-2D-Taichi)
-
-  </td>
-   <td style="text-align: center">
-   <div align = "center">
-     <a href="https://github.com/lyd405121/wcsph">
-        <img width="400" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/wcsph.gif">   
-     </a>
-
-[Liquid simulation](https://github.com/lyd405121/wcsph) 
+ 
 
   </td>
    <td style="text-align: center">
@@ -72,28 +83,18 @@ A curated list of awesome Taichi applications, courses.
      <a href="https://github.com/ethz-pbs21/SandyFluid">
         <img width="230" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/tgchomework-SandPile-Model.gif">
      </a>
-     
+       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
-
-  </td>
-  <td style="text-align: center">
-  <div align = "center">
-    <a href="https://github.com/Robslhc/LHCSim">
-       <img width="260" src="https://github.com/Taichi-contributor/test003/blob/main/simulator/LHCSim.gif">
-    </a>
-    
-[LHCSim](https://github.com/Robslhc/LHCSim)
 
   </td>
 
 </tr></table></div>
 
-
-* [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
+* [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
+* [LHCSim](https://github.com/Robslhc/LHCSim) - LHCSim is a 3D physics simulation engine developed based on Taichi.
 * [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 * [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
-* [LHCSim](https://github.com/Robslhc/LHCSim) - LHCSim is a 3D physics simulation engine developed based on Taichi.
-* [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
+* [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
 
