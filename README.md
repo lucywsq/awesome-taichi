@@ -93,7 +93,7 @@ A curated list of awesome Taichi applications, courses.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - LHCSim is a 3D physics simulation engine developed based on Taichi.
 * [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
-* [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
+* [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
