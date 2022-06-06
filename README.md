@@ -28,7 +28,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Math**
 
-* [Taichi-Math-Playgound](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
+* [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
 
 ## **Renderer**
 
