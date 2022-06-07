@@ -150,13 +150,32 @@ A curated list of awesome Taichi applications, courses.
 
 </tr></table></div>
 
+* [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - 
+* [EIP](https://github.com/yikaiw/EIP) - 
+* [Graphics](https://github.com/PrinceNeZha/Graphics) -
+* [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) -
+* [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) -
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine developed based on Taichi.
+* [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - 
+* [Mpmsim](https://github.com/KineticPayload/mpmsim) - 
+* [My-Taichi-Practice](https://github.com/Duotun/My-Taichi-Practice) - 
+* [Positon based dynamic with taichi](https://github.com/lyd405121/PBD) - 
 * [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 * [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
+* [Structure_factor](https://github.com/donshen/structure_factor) - 
+* [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) -
+* [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - 
+* [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - 
+* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - 
+* [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - 
+* [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - 
+* [TaichiPIC](https://github.com/bwzhao/TaichiPIC)-
+* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - 
+* 
 
 ## **Procedural Content Generation**
 * [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - 
