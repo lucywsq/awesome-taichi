@@ -51,11 +51,11 @@ A curated list of awesome Taichi applications, courses.
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
    <div align = "center">
-     <a href="https://github.com/lyd405121/wcsph">
+     <a href="https://github.com/takah29/2d-fluid-simulator">
         <img width="400" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1.jpg">   
      </a>  
        
-[Liquid simulation](https://github.com/lyd405121/wcsph) 
+[2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
        
    </td>
   <td style="text-align: center">
