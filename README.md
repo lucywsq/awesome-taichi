@@ -35,6 +35,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Math**
 
+* [TaichiCourseS1Hw1](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) -
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
 
 ## **Machine Learning**
