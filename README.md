@@ -3,8 +3,10 @@ A curated list of awesome Taichi applications, courses.
 
 
 - [Applications](#applications)
+    - 
     - [Compiler](#compiler)
     - [Game](#game)
+    - [Machine Learning](#machine-learning)
     - [Math](#math)
     - [Renderer](#renderer)
   - [Robotics](#robotics)
@@ -29,6 +31,10 @@ A curated list of awesome Taichi applications, courses.
 ## **Math**
 
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
+
+## **Machine Learning**
+
+* [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 
 ## **Renderer**
 
