@@ -6,6 +6,7 @@ A curated list of awesome Taichi applications, courses.
     - 
     - [Compiler](#compiler)
     - [Game](#game)
+    - [Image Processing](#image-processing)
     - [Machine Learning](#machine-learning)
     - [Math](#math)
     - [Renderer](#renderer)
@@ -27,6 +28,10 @@ A curated list of awesome Taichi applications, courses.
 
 * [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 
+## **Image Processing**
+
+* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - This is a technique that can fuse two images together without producing artifacts. 
+* [Taichi_Procedure_Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - The drawing process is imitated by generating images with different brush strokes, and a dynamic window is used to compare the original image with the generated image.
 
 ## **Math**
 
