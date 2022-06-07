@@ -60,18 +60,18 @@ A curated list of awesome Taichi applications, courses.
    </td>
   <td style="text-align: center">
   <div align = "center">
-    <a href="https://github.com/Robslhc/LHCSim">
-       <img width="260" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Physics%20Simulation1.jpg">
+    <a href="https://github.com/Morcki/cgPhysics">
+       <img width="280" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Physics%20Simulation1.jpg">
     </a>
       
-[LHCSim](https://github.com/Robslhc/LHCSim)
+[Physics Simulation Learning](https://github.com/Morcki/cgPhysics)
      
        
   </td>
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/MmmmHeee/SPH-2D-Taichi">
-        <img width="270" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/SPH-01.jpg"> 
+        <img width="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/SPH-01.jpg"> 
     </a>
 
 [SPH-2D](https://github.com/MmmmHeee/SPH-2D-Taichi)
@@ -81,7 +81,7 @@ A curated list of awesome Taichi applications, courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ethz-pbs21/SandyFluid">
-        <img width="340" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
+        <img width="210" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
      </a>
        
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
