@@ -14,6 +14,7 @@ A curated list of awesome Taichi applications, courses.
   - [Shader](#shader)
   - [Simulation](#simulation)
   - [Procedural Content Generation](#procedural-content-generation)
+  - [Voxel Art](#voxel-art)
 - [Courses](#courses)
 
 
@@ -178,8 +179,13 @@ A curated list of awesome Taichi applications, courses.
 * 
 
 ## **Procedural Content Generation**
+
 * [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - 
 
+
+## **Voxel Art**
+
+* [Taichi Voxel Challenge](https://github.com/0xrabbyte/voxel-challenge-2022)
 
 ## Courses
 
