@@ -174,8 +174,8 @@ A curated list of awesome Taichi applications, courses.
 * [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - The project is an attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by finite-volume-method.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 * [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
-* [TaichiPIC](https://github.com/bwzhao/TaichiPIC)-
-* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - 
+* [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
+* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A homework of Taichi Graphics Course.
 * 
 
 ## **Procedural Content Generation**
