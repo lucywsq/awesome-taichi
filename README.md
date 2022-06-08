@@ -184,7 +184,13 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Voxel Art**
 
-* [Taichi Voxel Challenge](https://github.com/0xrabbyte/voxel-challenge-2022)
+* [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel work modeled on a traditional building.
+* [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Inspired from Jennifer Stafford’s knitting chart for Bruce Lee.
+* [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite reproduction of a bonsai work in voxel.
+* [Galaxy](https://github.com/JinkunSun/voxel-challenge-galaxy) - Simulating the solar system with voxels.
+* [Minecraft-0.8.1 in memory](https://github.com/Mine-B/Minecraft-0.8.1) - Minecraft-style scene created with voxels.
+* [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
+* 
 
 ## Courses
 
