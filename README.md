@@ -151,29 +151,29 @@ A curated list of awesome Taichi applications, courses.
 
 </tr></table></div>
 
-* [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - 
-* [EIP](https://github.com/yikaiw/EIP) - 
+* [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - This addon provides SDF Node System for SDF Rendering and physics simulation with SDF Collision.
+* [EIP](https://github.com/yikaiw/EIP) - Code release for "Elastic Tactile Simulation Towards Tactile-Visual Perception", in ACMMM (Oral) 2021.
 * [Graphics](https://github.com/PrinceNeZha/Graphics) -
-* [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) -
-* [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) -
+* [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Collection of lab projects done for courses given at Tsinghua University School of Software.
+* [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine developed based on Taichi.
 * [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - 
-* [Mpmsim](https://github.com/KineticPayload/mpmsim) - 
-* [My-Taichi-Practice](https://github.com/Duotun/My-Taichi-Practice) - 
-* [Positon based dynamic with taichi](https://github.com/lyd405121/PBD) - 
+* [Mpmsim](https://github.com/KineticPayload/mpmsim) - An mpm simulator in python and taichi for use with automated design and soft robotics simulation.
+* [My-Taichi-Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
+* [Positon based dynamic with taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
 * [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 * [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
 * [Structure_factor](https://github.com/donshen/structure_factor) - 
-* [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) -
-* [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - 
-* [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - 
-* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - 
-* [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - 
-* [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - 
+* [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
+* [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy mls-mpm method for fast fluid sim.
+* [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
+* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - The project is an attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by finite-volume-method.
+* [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
+* [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)-
 * [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - 
 * 
