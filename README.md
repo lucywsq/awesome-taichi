@@ -157,7 +157,7 @@ A curated list of awesome Taichi applications, courses.
 * [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine developed based on Taichi.
-* [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - 
+* [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC(Compatible Particle-in-Cell) method with Taichi lang where MLS-MPM and rigid body collision techniques are adopted.
 * [Mpmsim](https://github.com/KineticPayload/mpmsim) - An mpm simulator in python and taichi for use with automated design and soft robotics simulation.
 * [My-Taichi-Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
 * [Positon based dynamic with taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
