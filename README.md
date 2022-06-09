@@ -23,7 +23,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Image Processing**
 
-* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - This is a technique that can fuse two images together without producing artifacts. 
+* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - An image processing technique that can fuse two images together without producing artifacts.
 * [Taichi Procedure Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - The drawing process is imitated by generating images with different brush strokes, and a dynamic window is used to compare the original image with the generated image.
 
 ## **Math**
@@ -161,7 +161,7 @@ A curated list of awesome Taichi applications, courses.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 * [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
-* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A homework of Taichi Graphics Course.
+* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A modified version of the Taichi MPM simulation example; homework of Taichi Graphics Course.
 
 ## **Procedural Content Generation**
 
