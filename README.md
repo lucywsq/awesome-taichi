@@ -187,6 +187,7 @@ A curated list of awesome Taichi applications, courses.
 * [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite reproduction of a bonsai work in voxel.
 * [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
 * [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Garage roof and car seen from front and back in precisely the same settings.
+* [Another World](https://github.com/peng-bo/voxel-challenge) - Replicating the Earth with voxel.
 * [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Inspired from Jennifer Stafford’s knitting chart for Bruce Lee.
 * [Celestial Shower](https://github.com/Xinweigh/voxel-challenge) - An attempt to recreate a game scene using voxels.
 * [City in 99 lines](https://github.com/victoriacity/voxel-challenge) - Builds a procedurally-generated city in 99 lines of Taichi code.
