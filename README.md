@@ -54,7 +54,7 @@ A curated list of awesome Taichi applications, courses.
        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
     </a>
       
-[Taichi hownwork](https://github.com/grassFlamingo/taichi_hownwork)
+[A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
      
        
   </td>
