@@ -27,6 +27,40 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Math**
 
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center, width: 180"> 
+   <div align = "center">
+     <a href="https://github.com/bsavery/BlenderPythonRenderer">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+     </a>  
+       
+[Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
+       
+   </td>
+  <td style="text-align: center">
+  <div align = "center">
+    <a href="https://github.com/grassFlamingo/taichi_hownwork">
+       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+    </a>
+      
+[A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
+     
+       
+  </td>
+  <td style="text-align: center">     
+  <div align = "center">
+    <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
+    </a>
+
+[Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
+
+
+  </td>
+
+</tr></table></div>
+
 * [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
 * [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
