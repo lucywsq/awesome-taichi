@@ -175,7 +175,6 @@ A curated list of awesome Taichi applications, courses.
 * [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
 * [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A homework of Taichi Graphics Course.
-* 
 
 ## **Procedural Content Generation**
 
