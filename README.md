@@ -35,8 +35,8 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Math**
 
-* [TaichiCourseS1Hw1](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) -
-* [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - 
+* [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
+* [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
 ## **Machine Learning**
 
