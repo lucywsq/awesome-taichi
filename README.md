@@ -9,7 +9,6 @@ A curated list of awesome Taichi applications, courses.
     - [Math](#math)
     - [Renderer](#renderer)
   - [Robotics](#robotics)
-  - [Shader](#shader)
   - [Simulation](#simulation)
   - [Procedural Content Generation](#procedural-content-generation)
   - [Voxel Art](#voxel-art)
