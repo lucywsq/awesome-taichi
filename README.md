@@ -198,18 +198,25 @@ A curated list of awesome Taichi applications, courses.
 * [Hot-air Balloon](ttps://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
 * [Kitten](https://github.com/Salix-y/voxel-challenge) - A cute kitty made of voxels.
 * [LIMBO Styled Cubic Space Division](https://github.com/peng-bo/voxel-challenge) - Inspired by Cubic Space Division.
+* [Little Night Lamp](https://github.com/ying-lei/little_night_lamp) - A voxel-style night lamp.
 * [Mahjong](https://github.com/strongoier/taichi-voxel-challenge-mahjong) - A voxel style mahjong.
 * [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
 * [Minecraft-0.8.1 in memory](https://github.com/Mine-B/Minecraft-0.8.1) - Minecraft-style scene created with voxels.
+* [Mountain with clouds](https://github.com/imcom/voxel-challenge) - Clouds float between the peaks of the mountains, and the work is finished in voxels.
 * [Overhead Chicken](https://github.com/xlhaw/voxel) - A cute chicken made by voxels.
-* [Panda](https://github.com/lotinosemiusomu/Panda)
-* [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge)
+* [Panda](https://github.com/lotinosemiusomu/Panda) - A voxel-style panda with funny facial expression.
+* [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge) - Simulating Pokémon's Poké Balls with voxels.
+* [Pyramids & Sphinx](https://github.com/mo-hanxuan/taichi-voxel-challenge) - Using utilize polyhedrons and ellipses as basic building blocks.
+* [Rose of Rose Curve](ttps://github.com/lzhou-xyz/voxel-challenge-2022-rosecurve) - The entire rose is drawn from the graceful rose line in mathematics.
+* [Stairs](https://github.com/claviering/voxel-challenge-stairs) - A staircase extending into the clouds is composed of voxels.
+* [Several demos of voxel art](https://github.com/pascal-lc/voxel-challenge) - A collection of voxel demos.
+* [The Girl with a Voxel Earring](https://github.com/maajor/maajor-voxel-challenge) - Reproducing the famous painting Girl with a Pearl Earring in voxels.
 * [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
-* 
-* 
+* [Voxel Art](https://github.com/yuanming-hu/voxel-art) - Autumn forest made of voxels.
 * [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Make a Pac-Man with voxels.
-* [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
-* 
+* [Voxel-My-Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel style computer desk.
+* [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
+* [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - This code is mainly using some sdf function to produce a rabbit and other stuff.
 
 ## Courses
 
