@@ -8,11 +8,13 @@
    <a href="https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg">
      <img alt="Slack Widget" src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red" />
 </p>
-
+   
+   
 
 A curated list of awesome Taichi applications, courses.
 
 
+ 
 - [Applications](#applications)
     - [Compiler](#compiler)
     - [Image Processing](#image-processing)
