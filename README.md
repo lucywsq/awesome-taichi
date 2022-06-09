@@ -152,7 +152,7 @@ A curated list of awesome Taichi applications, courses.
 
 * [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - This addon provides SDF Node System for SDF Rendering and physics simulation with SDF Collision.
 * [EIP](https://github.com/yikaiw/EIP) - Code release for "Elastic Tactile Simulation Towards Tactile-Visual Perception", in ACMMM (Oral) 2021.
-* [Graphics](https://github.com/PrinceNeZha/Graphics) -
+* [Graphics](https://github.com/PrinceNeZha/Graphics) - Some assignments of Taichi Graphics Course S1, including simulations and raytracing demos.
 * [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Collection of lab projects done for courses given at Tsinghua University School of Software.
 * [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
