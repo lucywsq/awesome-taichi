@@ -243,8 +243,8 @@ A curated list of awesome Taichi applications and courses.
 * [Dream to be a butterfly](https://github.com/marktube/voxel-challenge) - Inspired by Zhuangzi's dream of the butterfly: how lines between reality and dream can be blurred. 
 * [Galaxy](https://github.com/JinkunSun/voxel-challenge-galaxy) - Simulating the solar system with voxels.
 * [Game Console](https://github.com/m1911star/voxel-challenge) - A tiny game console made from voxels.
-* [Hot-air Balloon](ttps://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
-* [Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha) - 
+* [Hot-air Balloon](https://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
+* [Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha) -  Inspired by magical records.
 * [Kitten](https://github.com/Salix-y/voxel-challenge) - A cute kitty made of voxels.
 * [LIMBO Styled Cubic Space Division](https://github.com/peng-bo/voxel-challenge) - Inspired by Cubic Space Division.
 * [Little Night Lamp](https://github.com/ying-lei/little_night_lamp) - A voxel-style night lamp.
