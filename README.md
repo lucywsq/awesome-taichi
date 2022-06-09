@@ -49,7 +49,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img width="220" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
      </a>  
        
 [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -58,7 +58,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img width="205" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
     </a>
       
 [Taichi hownwork](https://github.com/grassFlamingo/taichi_hownwork)
@@ -68,7 +68,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img width="220" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
     </a>
 
 [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
@@ -78,7 +78,7 @@ A curated list of awesome Taichi applications, courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/hooyuser/2D_SDF_from_mask_GPU">
-        <img width="220" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/2DSDF.jpg">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/2DSDF.jpg">
      </a>
        
 [2D SDF from mask GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU)
