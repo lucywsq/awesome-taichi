@@ -1,4 +1,6 @@
-# Awesome Taichi
+
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
+
 A curated list of awesome Taichi applications, courses.
 
 
