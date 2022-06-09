@@ -185,11 +185,30 @@ A curated list of awesome Taichi applications, courses.
 ## **Voxel Art**
 
 * [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel work modeled on a traditional building.
-* [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Inspired from Jennifer Stafford’s knitting chart for Bruce Lee.
 * [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite reproduction of a bonsai work in voxel.
+* [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
+* [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Garage roof and car seen from front and back in precisely the same settings.
+* [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Inspired from Jennifer Stafford’s knitting chart for Bruce Lee.
+* [Celestial Shower](https://github.com/Xinweigh/voxel-challenge) - An attempt to recreate a game scene using voxels.
+* [City in 99 lines](https://github.com/victoriacity/voxel-challenge) - Builds a procedurally-generated city in 99 lines of Taichi code.
+* [Cloud City](https://github.com/raybobo/taichi-voxel-challenge) - Simulating a city in the clouds with voxels.
+* [Dream to be a butterfly](https://github.com/marktube/voxel-challenge) - The author's inspiration came from a classic poem: Life is as unreal as Zhuangzi’s dream as a butterfly.
 * [Galaxy](https://github.com/JinkunSun/voxel-challenge-galaxy) - Simulating the solar system with voxels.
+* [Game Console](https://github.com/m1911star/voxel-challenge) - A tiny game console made from voxels.
+* [Hot-air Balloon](ttps://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
+* [Kitten](https://github.com/Salix-y/voxel-challenge) - A cute kitty made of voxels.
+* [LIMBO Styled Cubic Space Division](https://github.com/peng-bo/voxel-challenge) - Inspired by Cubic Space Division.
+* [Mahjong](https://github.com/strongoier/taichi-voxel-challenge-mahjong) - A voxel style mahjong.
+* [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
 * [Minecraft-0.8.1 in memory](https://github.com/Mine-B/Minecraft-0.8.1) - Minecraft-style scene created with voxels.
+* [Overhead Chicken](https://github.com/xlhaw/voxel) - A cute chicken made by voxels.
+* [Panda](https://github.com/lotinosemiusomu/Panda)
+* [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge)
 * [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
+* 
+* 
+* [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Make a Pac-Man with voxels.
+* [Mario Theme](https://github.com/caiiy/voxel-challenge) - How to make Mario mushrooms and eggs by voxels.
 * 
 
 ## Courses
