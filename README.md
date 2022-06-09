@@ -206,7 +206,7 @@ A curated list of awesome Taichi applications, courses.
 * [Panda](https://github.com/lotinosemiusomu/Panda) - A voxel-style panda with funny facial expression.
 * [Pokémon](https://github.com/rexwangcc/taichi-voxel-challenge) - Simulating Pokémon's Poké Balls with voxels.
 * [Pyramids & Sphinx](https://github.com/mo-hanxuan/taichi-voxel-challenge) - Using utilize polyhedrons and ellipses as basic building blocks.
-* [Rose of Rose Curve](ttps://github.com/lzhou-xyz/voxel-challenge-2022-rosecurve) - The entire rose is drawn from the graceful rose line in mathematics.
+* [Rose of Rose Curve](https://github.com/lzhou-xyz/voxel-challenge-2022-rosecurve) - The entire rose is drawn from the graceful rose line in mathematics.
 * [Stairs](https://github.com/claviering/voxel-challenge-stairs) - A staircase extending into the clouds is composed of voxels.
 * [Several demos of voxel art](https://github.com/pascal-lc/voxel-challenge) - A collection of voxel demos.
 * [The Girl with a Voxel Earring](https://github.com/maajor/maajor-voxel-challenge) - Reproducing the famous painting Girl with a Pearl Earring in voxels.
