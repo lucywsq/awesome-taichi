@@ -179,7 +179,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Procedural Content Generation**
 
-* [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - 
+* [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - The drawing process is imitated by generating images with different brush strokes, and a dynamic window enables the comparison of the original image with the generated image.
 
 
 ## **Voxel Art**
