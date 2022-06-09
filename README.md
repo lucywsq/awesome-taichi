@@ -170,7 +170,7 @@ A curated list of awesome Taichi applications, courses.
 * [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 * [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy mls-mpm method for fast fluid sim.
 * [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
-* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - The project is an attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by finite-volume-method.
+* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by finite-volume-method.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 * [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
