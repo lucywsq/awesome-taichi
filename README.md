@@ -112,7 +112,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/takah29/2d-fluid-simulator">
-        <img width="400" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1.jpg">   
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1.jpg">   
      </a>  
        
 [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
@@ -120,11 +120,11 @@ A curated list of awesome Taichi applications, courses.
    </td>
   <td style="text-align: center">
   <div align = "center">
-    <a href="https://github.com/Morcki/cgPhysics">
-       <img width="300" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Physics%20Simulation1.jpg">
+    <a href="https://github.com/kawa-yoiko/graphics-lab-THSS">
+       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
     </a>
       
-[Physics Simulation Learning](https://github.com/Morcki/cgPhysics)
+[Graphics Lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS)
      
        
   </td>
@@ -141,7 +141,7 @@ A curated list of awesome Taichi applications, courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ethz-pbs21/SandyFluid">
-        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/graphics%20lab%20thss.jpeg">
      </a>
        
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
