@@ -83,7 +83,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
@@ -98,15 +98,6 @@ A curated list of awesome Taichi applications, courses.
 
 [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
  
-
-  </td>
-   <td style="text-align: center">
-   <div align = "center">
-     <a href="https://github.com/blefaudeux/chinoxel">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/chinoxel.jpg">
-     </a>
-       
-[Chinoxel](https://github.com/blefaudeux/chinoxel)
 
   </td>
 
@@ -207,21 +198,12 @@ A curated list of awesome Taichi applications, courses.
      </a>  
        
 [White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) 
-       
-   </td>
-  <td style="text-align: center">     
-  <div align = "center">
-    <a href="https://github.com/Evil-Ryu/voxel-challange">
-        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/potted%20tree.jpeg"> 
-    </a>
-
-[A Potted Tree](https://github.com/Evil-Ryu/voxel-challange)  
       
   </td>
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/ying-lei/little_night_lamp">
-        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/little%20night%20lamp.jpeg">
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/little%20night%20lamp.jpeg">
      </a>
        
 [Little Night Lamp](https://github.com/ying-lei/little_night_lamp)
