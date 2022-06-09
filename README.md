@@ -35,7 +35,7 @@ A curated list of awesome Taichi applications, courses.
         <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/JuliaSetJellyfish-math1.jpg">   
      </a>  
        
-[A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
+[A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
  
   <td style="text-align: center">     
   <div align = "center">
@@ -59,7 +59,7 @@ A curated list of awesome Taichi applications, courses.
 
 </tr></table></div>
 
-* [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
+* [A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
 * [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
