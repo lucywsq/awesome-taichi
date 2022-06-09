@@ -120,11 +120,11 @@ A curated list of awesome Taichi applications, courses.
    </td>
   <td style="text-align: center">
   <div align = "center">
-    <a href="https://github.com/kawa-yoiko/graphics-lab-THSS">
+    <a href="https://github.com/ethz-pbs21/SandyFluid">
        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
     </a>
       
-[Graphics Lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS)
+[SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
      
        
   </td>
@@ -140,11 +140,11 @@ A curated list of awesome Taichi applications, courses.
   </td>
    <td style="text-align: center">
    <div align = "center">
-     <a href="https://github.com/ethz-pbs21/SandyFluid">
+     <a href="https://github.com/kawa-yoiko/graphics-lab-THSS">
         <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/graphics%20lab%20thss.jpeg">
      </a>
        
-[SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
+[Graphics Lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS)
 
   </td>
 
