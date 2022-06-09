@@ -183,6 +183,48 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Voxel Art**
 
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center, width: 180"> 
+   <div align = "center">
+     <a href="https://github.com/Ricahrd-Li/Taichi-voxel-challenge">
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/duck.jpeg">   
+     </a>  
+       
+[White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) 
+       
+   </td>
+  <td style="text-align: center">     
+  <div align = "center">
+    <a href="https://github.com/Evil-Ryu/voxel-challange">
+        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/potted%20tree.jpeg"> 
+    </a>
+
+[A Potted Tree](https://github.com/Evil-Ryu/voxel-challange)  
+      
+  </td>
+   <td style="text-align: center">
+   <div align = "center">
+     <a href="https://github.com/ying-lei/little_night_lamp">
+        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/little%20night%20lamp.jpeg">
+     </a>
+       
+[Little Night Lamp](https://github.com/ying-lei/little_night_lamp)
+       
+   </td>
+  <td style="text-align: center">
+  <div align = "center">
+    <a href="https://github.com/SuperSodaSea/voxel-challenge-alpha">
+       <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/half_broken%20(1).jpeg">
+    </a>
+      
+[Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha)
+
+  </td>
+
+</tr></table></div>
+
+
 * [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel work modeled on a traditional building.
 * [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite reproduction of a bonsai work in voxel.
 * [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
@@ -196,6 +238,7 @@ A curated list of awesome Taichi applications, courses.
 * [Galaxy](https://github.com/JinkunSun/voxel-challenge-galaxy) - Simulating the solar system with voxels.
 * [Game Console](https://github.com/m1911star/voxel-challenge) - A tiny game console made from voxels.
 * [Hot-air Balloon](ttps://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
+* [Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha) - 
 * [Kitten](https://github.com/Salix-y/voxel-challenge) - A cute kitty made of voxels.
 * [LIMBO Styled Cubic Space Division](https://github.com/peng-bo/voxel-challenge) - Inspired by Cubic Space Division.
 * [Little Night Lamp](https://github.com/ying-lei/little_night_lamp) - A voxel-style night lamp.
@@ -211,11 +254,11 @@ A curated list of awesome Taichi applications, courses.
 * [Stairs](https://github.com/claviering/voxel-challenge-stairs) - A staircase extending into the clouds is composed of voxels.
 * [Several demos of voxel art](https://github.com/pascal-lc/voxel-challenge) - A collection of voxel demos.
 * [The Girl with a Voxel Earring](https://github.com/maajor/maajor-voxel-challenge) - Reproducing the famous painting Girl with a Pearl Earring in voxels.
-* [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
 * [Voxel Art](https://github.com/yuanming-hu/voxel-art) - Autumn forest made of voxels.
 * [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Make a Pac-Man with voxels.
 * [Voxel-My-Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel style computer desk.
 * [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
+* [White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
 * [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - This code is mainly using some sdf function to produce a rabbit and other stuff.
 
 ## Courses
