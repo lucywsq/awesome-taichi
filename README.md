@@ -4,7 +4,6 @@ A curated list of awesome Taichi applications, courses.
 
 - [Applications](#applications)
     - [Compiler](#compiler)
-    - [Game](#game)
     - [Image Processing](#image-processing)
     - [Machine Learning](#machine-learning)
     - [Math](#math)
@@ -23,11 +22,6 @@ A curated list of awesome Taichi applications, courses.
 * [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A modern GPU computing framework for Javascript. 
 
 
-
-## **Game**
-
-* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
-
 ## **Image Processing**
 
 * [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - This is a technique that can fuse two images together without producing artifacts. 
@@ -36,6 +30,7 @@ A curated list of awesome Taichi applications, courses.
 ## **Math**
 
 * [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
+* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
 ## **Machine Learning**
@@ -101,10 +96,6 @@ A curated list of awesome Taichi applications, courses.
 * [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 * [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
 
-## **Shader**
-
-* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - One homework of Taichi Graphics Course S1. Realizing the Mandelbrot set with Taichi.
-
 
 ## **Simulation**
 
@@ -155,6 +146,7 @@ A curated list of awesome Taichi applications, courses.
 * [Graphics](https://github.com/PrinceNeZha/Graphics) - Some assignments of Taichi Graphics Course S1, including simulations and raytracing demos.
 * [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Collection of lab projects done for courses given at Tsinghua University School of Software.
 * [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
+* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine developed based on Taichi.
 * [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC(Compatible Particle-in-Cell) method with Taichi lang where MLS-MPM and rigid body collision techniques are adopted.
