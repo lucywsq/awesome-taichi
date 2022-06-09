@@ -18,7 +18,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Compiler**
 
-* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A modern GPU computing framework for Javascript. 
+* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A Javascript frontend for Taichi. 
 
 
 ## **Image Processing**
