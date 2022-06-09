@@ -168,31 +168,31 @@ A curated list of awesome Taichi applications and courses.
 </tr></table></div>
 
 
-* [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
+* [Blender sdf node addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
 * [EIP](https://github.com/yikaiw/EIP)- A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
-* [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. Implemented in Taichi.
-* [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
+* [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. Implemented in Taichi.
+* [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 * [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine based on Taichi.
 * [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, where MLS-MPM and rigid body collision techniques are adopted.
 * [Mpmsim](https://github.com/KineticPayload/mpmsim) - An MPM simulator powered by python and taichi for automated design and soft robotics simulation.
-* [My-Taichi-Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
+* [My Taichi Practice](https://github.com/Duotun/My-Taichi-Practice) - Learning and Practice with Taichi.
 * [Positon based dynamic with taichi](https://github.com/lyd405121/PBD) - Positon based dynamic with Taichi.
 * [Physics Simulation Learning Using Taichi](https://github.com/Morcki/cgPhysics) - Learning physics simulation using Taichi.
 * [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - A course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
-* [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
-* [Structure_factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
-* [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
-* [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy MLS-MPM method for fast fluid sim.
-* [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
-* [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
+* [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
+* [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
+* [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
+* [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy MLS-MPM method for fast fluid sim.
+* [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
+* [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
-* [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
+* [Taichi HW1 EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- A particle-in-cell (PIC) simulation program used in plasma physics.
-* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
+* [Taichi Titanic188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
 
 
 
@@ -263,7 +263,7 @@ A curated list of awesome Taichi applications and courses.
 * [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and a small white boat, both generated with voxels.
 * [Voxel Art](https://github.com/yuanming-hu/voxel-art) - The autumn forest made of voxels.
 * [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Making a Pac-Man with voxels.
-* [Voxel-My-Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel-style computer desk.
+* [Voxel My Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel-style computer desk.
 * [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
 * [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - Using sdf function to create a rabbit and other stuff.
 
