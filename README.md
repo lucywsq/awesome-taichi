@@ -61,7 +61,7 @@ A curated list of awesome Taichi applications, courses.
        <img width="205" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
     </a>
       
-[Taichi_hownwork](https://github.com/grassFlamingo/taichi_hownwork)
+[Taichi hownwork](https://github.com/grassFlamingo/taichi_hownwork)
      
        
   </td>
@@ -71,7 +71,7 @@ A curated list of awesome Taichi applications, courses.
         <img width="220" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
     </a>
 
-[Taichi_Ray_Tracing_Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
+[Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
  
 
   </td>
@@ -81,7 +81,7 @@ A curated list of awesome Taichi applications, courses.
         <img width="220" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/2DSDF.jpg">
      </a>
        
-[2D_SDF_from_mask_GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU)
+[2D SDF from mask GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU)
 
   </td>
 
