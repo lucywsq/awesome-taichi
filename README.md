@@ -132,20 +132,11 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
-       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluidwater.jpg">
+       <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water.jpg">
     </a>
       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
      
-       
-  </td>
-  <td style="text-align: center">     
-  <div align = "center">
-    <a href="https://github.com/MmmmHeee/SPH-2D-Taichi">
-        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/SPH-01.jpg"> 
-    </a>
-
-[SPH-2D](https://github.com/MmmmHeee/SPH-2D-Taichi)
  
 
   </td>
