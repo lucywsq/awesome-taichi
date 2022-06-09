@@ -70,11 +70,11 @@ A curated list of awesome Taichi applications, courses.
   </td>
    <td style="text-align: center">
    <div align = "center">
-     <a href="https://github.com/hooyuser/2D_SDF_from_mask_GPU">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/2DSDF.jpg">
+     <a href="https://github.com/blefaudeux/chinoxel">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/chinoxel.jpg">
      </a>
        
-[2D SDF from mask GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU)
+[Chinoxel](https://github.com/blefaudeux/chinoxel)
 
   </td>
 
