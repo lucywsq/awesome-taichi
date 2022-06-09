@@ -88,11 +88,11 @@ A curated list of awesome Taichi applications, courses.
 </tr></table></div>
 
 
+* [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A demo of ray tracing powered by Taichi. 
 * [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) - A GPU renderer for prototyping and research written purely in python.
 * [Chinoxel](https://github.com/blefaudeux/chinoxel) - Trying to implement Plenoxels using Taichi. 
 * [Differender](https://github.com/nanovis/Differender) - Taichi-based Differentiable SciVis Renderer for PyTorch.
 * [2D_SDF_from_mask_GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generate 2D SDF from mask bitmap. A GPU version based on jump flooding algorithm using Taichi.
-* [Taichi_hownwork](https://github.com/grassFlamingo/taichi_hownwork) - 
 * [Taichi_Ray_Tracing_Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
 
 
