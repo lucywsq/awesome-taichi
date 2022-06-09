@@ -166,7 +166,7 @@ A curated list of awesome Taichi applications, courses.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - Course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
-* [Structure_factor](https://github.com/donshen/structure_factor) - 
+* [Structure_factor](https://github.com/donshen/structure_factor) - Calculate average structure factor from pdb files. Implemented CPU-based parallelization using numba and cuda-acceleration by Taichi. 
 * [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 * [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy mls-mpm method for fast fluid sim.
 * [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
