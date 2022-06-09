@@ -103,7 +103,7 @@ A curated list of awesome Taichi applications, courses.
 
 ## **Shader**
 
-* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - 
+* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - One homework of Taichi Graphics Course S1. Realizing the Mandelbrot set with Taichi.
 
 
 ## **Simulation**
