@@ -10,7 +10,6 @@ A curated list of awesome Taichi applications, courses.
     - [Renderer](#renderer)
   - [Robotics](#robotics)
   - [Simulation](#simulation)
-  - [Procedural Content Generation](#procedural-content-generation)
   - [Voxel Art](#voxel-art)
 - [Courses](#courses)
 
@@ -163,9 +162,6 @@ A curated list of awesome Taichi applications, courses.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
 * [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A modified version of the Taichi MPM simulation example; homework of Taichi Graphics Course.
 
-## **Procedural Content Generation**
-
-* [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - The drawing process is imitated by generating images with different brush strokes, and a dynamic window enables the comparison of the original image with the generated image.
 
 
 ## **Voxel Art**
