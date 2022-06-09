@@ -1,18 +1,22 @@
+<<<<<<< HEAD
 # Awesome Taichi
 A curated list of awesome Taichi applications and courses.
+=======
+
+<img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
+
+A curated list of awesome Taichi applications, courses.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 
 
 - [Applications](#applications)
     - [Compiler](#compiler)
-    - [Game](#game)
     - [Image Processing](#image-processing)
     - [Machine Learning](#machine-learning)
     - [Math](#math)
     - [Renderer](#renderer)
   - [Robotics](#robotics)
-  - [Shader](#shader)
   - [Simulation](#simulation)
-  - [Procedural Content Generation](#procedural-content-generation)
   - [Voxel Art](#voxel-art)
 - [Courses](#courses)
 
@@ -20,22 +24,59 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Compiler**
 
-* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A modern GPU computing framework for Javascript. 
+* [Taichi.js](https://github.com/AmesingFlank/taichi.js) - A Javascript frontend for Taichi. 
 
-
-
-## **Game**
-
-* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 
 ## **Image Processing**
 
-* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
-* [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
+* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - An image processing technique that can fuse two images together without producing artifacts.
+* [Taichi Procedure Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - A painting process generator that mimics real drawings.
 
 ## **Math**
 
+
+<<<<<<< HEAD
+* [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
+* [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
+=======
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center, width: 180"> 
+   <div align = "center">
+     <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/JuliaSetJellyfish-math1.jpg">   
+     </a>  
+       
+[A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
+ 
+  <td style="text-align: center">     
+  <div align = "center">
+    <a href="https://github.com/Y7K4/mandelbrot-viewer">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/mandelbrot02.jpg"> 
+    </a>
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
+
+[Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer)
+       
+   </td>
+  <td style="text-align: center">
+  <div align = "center">
+    <a href="https://github.com/TiGeekMan/Taichi-Math-Playgound">
+       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/polyhedra-mirrors.jpg">
+    </a>
+      
+[Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
+ 
+
+  </td>
+
+<<<<<<< HEAD
 * [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - Modifications based on the Julia Set to produce jellyfish-like effects.
+=======
+</tr></table></div>
+
+* [A Jellyfish-like Demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - A jellyfish-like demo based on Julia Set modifications.
+* [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 * [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
 ## **Machine Learning**
@@ -49,7 +90,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
      </a>  
        
 [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -58,30 +99,21 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
     </a>
       
-[Taichi hownwork](https://github.com/grassFlamingo/taichi_hownwork)
+[A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
      
        
   </td>
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
+        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
     </a>
 
 [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
  
-
-  </td>
-   <td style="text-align: center">
-   <div align = "center">
-     <a href="https://github.com/hooyuser/2D_SDF_from_mask_GPU">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/2DSDF.jpg">
-     </a>
-       
-[2D SDF from mask GPU](https://github.com/hooyuser/2D_SDF_from_mask_GPU)
 
   </td>
 
@@ -91,9 +123,14 @@ A curated list of awesome Taichi applications and courses.
 * [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A ray tracing demo powered by Taichi. 
 * [Blendern Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) - A GPU renderer for prototyping and research written purely in python.
 * [Chinoxel](https://github.com/blefaudeux/chinoxel) - Trying to implement Plenoxels using Taichi. 
+<<<<<<< HEAD
 * [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
 * [2D SDF Generation](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generating 2D SDF: a GPU version based on jump flooding algorithm using Taichi.
 * [Taichi Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
+=======
+* [Differender](https://github.com/nanovis/Differender) - Taichi-based Differentiable SciVis Renderer for PyTorch.
+* [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 
 
 ## **Robotics**
@@ -101,10 +138,13 @@ A curated list of awesome Taichi applications and courses.
 * [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 * [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
 
+<<<<<<< HEAD
 ## **Shader**
 
 * [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - an assignment of Taichi Graphics Course S1: implementing the Mandelbrot set with Taichi.
 
+=======
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 
 ## **Simulation**
 
@@ -121,20 +161,11 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
-       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
+       <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water.jpg">
     </a>
       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
      
-       
-  </td>
-  <td style="text-align: center">     
-  <div align = "center">
-    <a href="https://github.com/MmmmHeee/SPH-2D-Taichi">
-        <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/SPH-01.jpg"> 
-    </a>
-
-[SPH-2D](https://github.com/MmmmHeee/SPH-2D-Taichi)
  
 
   </td>
@@ -150,11 +181,17 @@ A curated list of awesome Taichi applications and courses.
 
 </tr></table></div>
 
+<<<<<<< HEAD
 * [Blender_sdf_node_addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
 * [EIP](https://github.com/yikaiw/EIP) - Code release for "Elastic Tactile Simulation Towards Tactile-Visual Perception", in ACMMM (Oral) 2021.
 * [Graphics](https://github.com/PrinceNeZha/Graphics) - Assignments of Taichi Graphics Course S1, including simulations and ray tracing demos.
 * [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - A collection of lab projects done for courses provided by Tsinghua University School of Software.
+=======
+* [EIP](https://github.com/yikaiw/EIP) - A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
+* [Graphics-lab-THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. Implemented in Taichi.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 * [Ink_Painting_Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
+* [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine based on Taichi.
 * [MLS_MPM_CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, where MLS-MPM and rigid body collision techniques are adopted.
@@ -165,13 +202,18 @@ A curated list of awesome Taichi applications and courses.
 * [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) - A hard-core CFD (Computational Fluid Dynamics) solver powered by Taichi.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - A course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
+<<<<<<< HEAD
 * [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
 * [Structure_factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
+=======
+* [SPH-2D-Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - A SPH based 2D fulid simulation including WCSPH and PCISPH implmented using Taichi.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 * [Taichi_collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 * [Taichi-data-factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy MLS-MPM method for fast fluid sim.
 * [Taichi-flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
 * [Taichi-fvm2d-fluid-ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
+<<<<<<< HEAD
 * [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- A particle-in-cell (PIC) simulation program used in plasma physics.
 * [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
@@ -179,15 +221,63 @@ A curated list of awesome Taichi applications and courses.
 ## **Procedural Content Generation**
 
 * [Taichi-Procedural Painting](https://github.com/theYiran/Taichi_Procedural_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
+=======
+* [Taichi_HW1_EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - A homework of Taichi Graphics Course.
+* [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- Particle in cell (PIC) simulation program used in plasma physics.
+* [Taichi_Titanic188](https://github.com/runck/Taichi_Titanic188) - A modified version of the Taichi MPM simulation example; homework of Taichi Graphics Course.
+
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 
 
 ## **Voxel Art**
 
+<<<<<<< HEAD
 * [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel model of a traditional building.
 * [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite voxel reproduction of a bonsai tree.
 * [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
 * [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Front and rear views of the garage roof and the car in the same setting.
 * [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Bruce Lee, inspired by Jennifer Stafford’s knitting chart.
+=======
+
+<div style="text-align: center"><table><tr>
+  <td style="text-align: center, width: 180"> 
+   <div align = "center">
+     <a href="https://github.com/Ricahrd-Li/Taichi-voxel-challenge">
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/duck.jpeg">   
+     </a>  
+       
+[White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) 
+      
+  </td>
+   <td style="text-align: center">
+   <div align = "center">
+     <a href="https://github.com/ying-lei/little_night_lamp">
+        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/little%20night%20lamp.jpeg">
+     </a>
+       
+[Little Night Lamp](https://github.com/ying-lei/little_night_lamp)
+       
+   </td>
+  <td style="text-align: center">
+  <div align = "center">
+    <a href="https://github.com/SuperSodaSea/voxel-challenge-alpha">
+       <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/half_broken%20(1).jpeg">
+    </a>
+      
+[Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha)
+
+  </td>
+
+</tr></table></div>
+
+
+* [A Tiny Jinya](https://github.com/0xrabbyte/voxel-challenge-2022) - A voxel work modeled on a traditional building.
+* [A Potted Tree](https://github.com/Evil-Ryu/voxel-challange) - An exquisite reproduction of a bonsai work in voxel.
+* [A Little Red Flower](https://github.com/zhangxianggis/voxel-challenge) - Making a small red flower with voxel.
+* [Ambiguous Garage Roof](https://github.com/hejob/taichi-voxel-challenge-01) - Garage roof and car seen from front and back in precisely the same settings.
+* [Another World](https://github.com/peng-bo/voxel-challenge) - Replicating the Earth with voxel.
+* [Bruce Lee](https://github.com/0xzhang/bruce-lee-voxel-challenge) - Inspired from Jennifer Stafford’s knitting chart for Bruce Lee.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 * [Celestial Shower](https://github.com/Xinweigh/voxel-challenge) - An attempt to recreate a game scene using voxels.
 * [City in 99 lines](https://github.com/victoriacity/voxel-challenge) - Building a procedurally-generated city in 99 lines of Taichi code.
 * [Cloud City](https://github.com/raybobo/taichi-voxel-challenge) - Simulating a city in the clouds with voxels.
@@ -195,6 +285,7 @@ A curated list of awesome Taichi applications and courses.
 * [Galaxy](https://github.com/JinkunSun/voxel-challenge-galaxy) - Simulating the solar system with voxels.
 * [Game Console](https://github.com/m1911star/voxel-challenge) - A tiny game console made from voxels.
 * [Hot-air Balloon](ttps://github.com/feizn/myvoxel) - A hot air balloon made from multiple small voxel squares.
+* [Half Broken](https://github.com/SuperSodaSea/voxel-challenge-alpha) - 
 * [Kitten](https://github.com/Salix-y/voxel-challenge) - A cute kitty made of voxels.
 * [LIMBO Styled Cubic Space Division](https://github.com/peng-bo/voxel-challenge) - Inspired by Cubic Space Division.
 * [Little Night Lamp](https://github.com/ying-lei/little_night_lamp) - A voxel-style night lamp.
@@ -210,12 +301,21 @@ A curated list of awesome Taichi applications and courses.
 * [Stairs](https://github.com/claviering/voxel-challenge-stairs) - A staircase ascending to the clouds, composed of voxels.
 * [Several demos of voxel art](https://github.com/pascal-lc/voxel-challenge) - A collection of voxel demos.
 * [The Girl with a Voxel Earring](https://github.com/maajor/maajor-voxel-challenge) - Reproducing the famous painting Girl with a Pearl Earring in voxels.
+<<<<<<< HEAD
 * [Tiny White Boat & Giant Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and a small white boat, both generated with voxels.
 * [Voxel Art](https://github.com/yuanming-hu/voxel-art) - The autumn forest made of voxels.
 * [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Making a Pac-Man with voxels.
 * [Voxel-My-Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel-style computer desk.
 * [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
 * [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - Using sdf function to create a rabbit and other stuff.
+=======
+* [Voxel Art](https://github.com/yuanming-hu/voxel-art) - Autumn forest made of voxels.
+* [Voxel Pac-man](https://github.com/beiyuouo/voxel-challenge) - Make a Pac-Man with voxels.
+* [Voxel-My-Desktop](https://github.com/neozhaoliang/voxel-challenge) - A cool voxel style computer desk.
+* [Voxel Taichi](https://github.com/houkensjtu/qbao_voxel_art) -  A voxel-style Taichi logo.
+* [White Boat & Yellow Duck](https://github.com/Ricahrd-Li/Taichi-voxel-challenge) - A lovely giant yellow duck and small white boat, both generated with voxels.
+* [You are not alone](https://github.com/lyd405121/ti-voxel-challege) - This code is mainly using some sdf function to produce a rabbit and other stuff.
+>>>>>>> 227a9cca556b6e2e885542a5fb1e95246bf2ae48
 
 ## Courses
 
