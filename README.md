@@ -74,7 +74,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
      </a>  
        
 [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -93,7 +93,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
+        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
     </a>
 
 [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
