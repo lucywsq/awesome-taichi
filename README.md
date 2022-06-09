@@ -121,7 +121,7 @@ A curated list of awesome Taichi applications, courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
-       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/Sandy%20Fluid.jpg">
+       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluidwater.jpg">
     </a>
       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
