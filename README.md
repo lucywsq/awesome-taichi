@@ -31,31 +31,29 @@ A curated list of awesome Taichi applications, courses.
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
    <div align = "center">
-     <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+     <a href="https://github.com/AmamiyaRenn/TaichiCourseS1Hw1">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/JuliaSetJellyfish-math1.jpg">   
      </a>  
        
-[Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
+[A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) 
+ 
+  <td style="text-align: center">     
+  <div align = "center">
+    <a href="https://github.com/Y7K4/mandelbrot-viewer">
+        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/mandelbrot02.jpg"> 
+    </a>
+
+[Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer)
        
    </td>
   <td style="text-align: center">
   <div align = "center">
-    <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+    <a href="https://github.com/TiGeekMan/Taichi-Math-Playgound">
+       <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/polyhedra-mirrors.jpg">
     </a>
       
-[A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
-     
-       
-  </td>
-  <td style="text-align: center">     
-  <div align = "center">
-    <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img width="305" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
-    </a>
-
-[Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
-
+[Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
+ 
 
   </td>
 
