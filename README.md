@@ -9,7 +9,6 @@
 [![Bilibili-widget](https://img.shields.io/badge/Bilibili-view-blue)](https://space.bilibili.com/1779922645)
 [![Slack-widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg)
 
-</p>
    
 
 A curated list of awesome Taichi applications and courses.
