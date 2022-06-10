@@ -86,7 +86,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/blenderrender.jpg">   
+        <img width = "200" height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/blenderrender.jpg">   
      </a>  
        
 [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -95,7 +95,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw.jpg">
+       <img width = "200" height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw.jpg">
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
@@ -105,7 +105,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
+        <img width = "200" height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
     </a>
 
 [Taichi Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
@@ -114,7 +114,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/blefaudeux/chinoxel">
-        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
+        <img width = "200" height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
     </a>
 
 [Chinoxel](https://github.com/blefaudeux/chinoxel) 
@@ -147,7 +147,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/takah29/2d-fluid-simulator">
-        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1.jpg">   
+        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1%201.jpg">   
      </a>  
        
 [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
@@ -156,7 +156,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
-       <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water.jpg">
+       <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water%201.jpg">
     </a>
       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
@@ -165,11 +165,11 @@ A curated list of awesome Taichi applications and courses.
   </td>
    <td style="text-align: center">
    <div align = "center">
-     <a href="https://github.com/kawa-yoiko/graphics-lab-THSS">
-        <img width="360" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/graphics%20lab%20thss.jpeg">
+     <a href="https://github.com/hejob/taichi-fvm2d-fluid-ns">
+        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/cylinder%201.jpg">
      </a>
        
-[Graphics Lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS)
+[Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns)
 
   </td>
 
