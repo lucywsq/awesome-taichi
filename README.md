@@ -147,7 +147,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/takah29/2d-fluid-simulator">
-        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1%201.jpg">   
+        <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/2d-fluid-simulator-1%201.jpg">   
      </a>  
        
 [2D Fluid Simulator](https://github.com/takah29/2d-fluid-simulator) 
@@ -156,7 +156,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/ethz-pbs21/SandyFluid">
-       <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water%201.jpg">
+       <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/sandyfluid-water%201.jpg">
     </a>
       
 [SandyFluid](https://github.com/ethz-pbs21/SandyFluid)
@@ -166,7 +166,7 @@ A curated list of awesome Taichi applications and courses.
    <td style="text-align: center">
    <div align = "center">
      <a href="https://github.com/hejob/taichi-fvm2d-fluid-ns">
-        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/cylinder%201.jpg">
+        <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/simulator-jpg/cylinder%201.jpg">
      </a>
        
 [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns)
