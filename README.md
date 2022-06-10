@@ -81,7 +81,7 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Machine Learning**
 
-* [DiffTaichi](https://github.com/taichi-dev/difftaichi) - The DiffTaichi differentiable programming framework is now officially part of Taichi. This repo only contains examples.
+* [DiffTaichi](https://github.com/taichi-dev/difftaichi) - Differentiable Programming for Physical Simulation.
 * [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 
 ## **Renderer**
