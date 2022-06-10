@@ -96,7 +96,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw.jpg">
+       <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw001.jpg">
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
