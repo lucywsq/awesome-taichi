@@ -1,17 +1,19 @@
 
 <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
 
+<p align="center"> 
+<a href="https://github.com/taichi-dev/taichi"><img src="https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi-lang&style=social"></a>
+<a href="https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw"><img src="https://img.shields.io/youtube/channel/views/UCu-k1Wglo9Ll_o2j5Bxl4cw?label=Taichi%20Graphics&style=social"></a>
+<a href="https://twitter.com/taichigraphics"><img src="https://img.shields.io/twitter/follow/taichigraphics?style=social"></a>
+</p>
 
+<p align="center">
+<a href="https://www.zhihu.com/org/tai-ji-tu-xing"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue")</a>
+<a href="https://space.bilibili.com/177992264"><img src="https://img.shields.io/badge/Bilibili-view-blue"></a>
+<a href="https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red"></a>
+</p>   
 
-[![Github-widget](https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi-lang&style=social)](https://github.com/taichi-dev/taichi)
-[![Youtube-widget](https://img.shields.io/youtube/channel/views/UCu-k1Wglo9Ll_o2j5Bxl4cw?label=Taichi%20Graphics&style=social)](https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw)
-[![Twitter-widget](https://img.shields.io/twitter/follow/taichigraphics?style=social)](https://twitter.com/taichigraphics)
-[![Zhihu-widget](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue)](https://www.zhihu.com/org/tai-ji-tu-xing)
-[![Bilibili-widget](https://img.shields.io/badge/Bilibili-view-blue)](https://space.bilibili.com/1779922645)
-[![Slack-widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg)
-
-
-   
+  
 
 A curated list of awesome Taichi applications and courses.
  
