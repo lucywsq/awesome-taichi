@@ -81,7 +81,6 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Renderer**
 
-
 <div style="text-align: center"><table><tr>
   <td style="text-align: center, width: 180"> 
    <div align = "center">
@@ -99,8 +98,7 @@ A curated list of awesome Taichi applications and courses.
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
-     
-       
+        
   </td>
   <td style="text-align: center">     
   <div align = "center">
