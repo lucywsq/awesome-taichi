@@ -175,6 +175,7 @@ A curated list of awesome Taichi applications and courses.
 
 
 * [Blender sdf node addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
+* [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD related resources for Taichi developers.
 * [EIP](https://github.com/yikaiw/EIP)- A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
 * [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. Implemented in Taichi.
 * [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
