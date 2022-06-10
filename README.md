@@ -108,7 +108,7 @@ A curated list of awesome Taichi applications and courses.
         <img height=“200” width="200"  src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
     </a>
 
-[Taichi Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
+[Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
  
   </td>
   <td style="text-align: center">     
@@ -129,8 +129,7 @@ A curated list of awesome Taichi applications and courses.
 * [Chinoxel](https://github.com/blefaudeux/chinoxel) - Trying to implement Plenoxels using Taichi. 
 * [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
 * [2D SDF Generation](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generating 2D SDF: a GPU version based on jump flooding algorithm using Taichi.
-* [Taichi Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
-* [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
+* [Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
 
 
 
