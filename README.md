@@ -123,7 +123,7 @@ A curated list of awesome Taichi applications and courses.
 * [2D SDF Generation](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generating 2D SDF: a GPU version based on jump flooding algorithm using Taichi.
 * [Taichi Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
 * [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
-* [Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
+
 
 
 
