@@ -86,7 +86,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center, width: 180"> 
    <div align = "center">
      <a href="https://github.com/bsavery/BlenderPythonRenderer">
-        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/blenderrender.jpg">   
+        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/blenderrender.jpg">   
      </a>  
        
 [Blender Python Renderer](https://github.com/bsavery/BlenderPythonRenderer) 
@@ -95,7 +95,7 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">
   <div align = "center">
     <a href="https://github.com/grassFlamingo/taichi_hownwork">
-       <img width="250" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/taichi-hw.jpg">
+       <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/taichi-hw.jpg">
     </a>
       
 [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork)
@@ -105,11 +105,19 @@ A curated list of awesome Taichi applications and courses.
   <td style="text-align: center">     
   <div align = "center">
     <a href="https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises">
-        <img width="320" img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/renderer-jpgs/ray-tracying.jpg"> 
+        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/ray-tracying%201.jpg"> 
     </a>
 
-[Taichi Ray Tracing Exercises](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
+[Taichi Ray Tracing Experiments](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises)
  
+  </td>
+  <td style="text-align: center">     
+  <div align = "center">
+    <a href="https://github.com/blefaudeux/chinoxel">
+        <img height="200" src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/render-jpg/chinoxel%201.jpg"> 
+    </a>
+
+[Chinoxel](https://github.com/blefaudeux/chinoxel) 
 
   </td>
 
