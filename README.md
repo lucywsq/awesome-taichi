@@ -81,6 +81,7 @@ A curated list of awesome Taichi applications and courses.
 
 ## **Machine Learning**
 
+* [DiffTaichi](https://github.com/taichi-dev/difftaichi) - The DiffTaichi differentiable programming framework is now officially part of Taichi. This repo only contains examples.
 * [Stannum](https://github.com/ifsheldon/stannum) - Fusing Taichi into PyTorch.
 
 ## **Renderer**
@@ -128,18 +129,20 @@ A curated list of awesome Taichi applications and courses.
 
 * [A Ray Tracing Demo](https://github.com/grassFlamingo/taichi_hownwork) - A ray tracing demo powered by Taichi. 
 * [Blender Renderer](https://github.com/bsavery/BlenderPythonRenderer) - A GPU renderer for prototyping and research written purely in python.
+* [Cameray](https://github.com/yslib/Cameray) - Cameray is a lens editor and simulator implemented in Taichi.
 * [Chinoxel](https://github.com/blefaudeux/chinoxel) - Trying to implement Plenoxels using Taichi. 
 * [Differender](https://github.com/nanovis/Differender) - Taichi-based differentiable SciVis renderer for PyTorch.
 * [2D SDF Generation](https://github.com/hooyuser/2D_SDF_from_mask_GPU) - Generating 2D SDF: a GPU version based on jump flooding algorithm using Taichi.
 * [Ray Tracing Experiment](https://github.com/lightningbird/Taichi_Ray_Tracing_Exercises) - Parallelized collision detection implemented in Taichi.
-
+* [ti-raytrace](https://github.com/lyd405121/ti-raytrace) - A ray-tracing renderer implemented in Taichi.
 
 
 
 ## **Robotics**
 
-* [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
 * [CPDeform](https://github.com/lester0866/CPDeform) - Code and data for paper Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics at ICLR 2022 (Spotlight).
+* [PlasticineLab](https://github.com/iquibalamhm/plasticine-lab-cmu) - A Soft-Body Manipulation Benchmark with Differentiable Physics.
+* [TaichiGAME](https://github.com/maksyuki/TaichiGAME) - A lightweight simulation engine in motion planning and control research fields.
 
 
 ## **Simulation**
@@ -176,13 +179,16 @@ A curated list of awesome Taichi applications and courses.
 
 </tr></table></div>
 
-
+* [ASFLIP](https://github.com/nepluno/pyasflip) - A MPM method simulation implementing the ASFLIP advection method.
+* [Ant Colony](https://github.com/theAfish/Homework-2-Ant-Colony) - A simulation of the ant colony behavior.
 * [Blender sdf node addon](https://github.com/hooyuser/blender_sdf_node_addon) - This add-on provides SDF Node System for SDF Rendering and Physics Simulation with SDF Collision.
+* [Cloth Simulation via Taichi](https://github.com/GZhonghui/tiCloth) - A cloth simulation using Taichi.
 * [Computational Fluid Dynamics in Taichi](https://github.com/houkensjtu/taichi-fluid) - A collection of CFD related resources for Taichi developers.
 * [EIP](https://github.com/yikaiw/EIP)- A simulation of Elastic Interaction of Particles (EIP) implemented in Taichi.
 * [Graphics lab THSS](https://github.com/kawa-yoiko/graphics-lab-THSS) - Parallelized collision detection on the GPU with a rigid body physics simulator. Implemented in Taichi.
 * [Ink Painting Taichi](https://github.com/youy028/Ink_Painting_Taichi) - A simulation demo of ink paintings.
 * [John Conway's Game of Life](https://github.com/wuyingnan/TaichiPlayground/tree/master/GameOfLife) - John Conway's Game of Life written in Taichi.
+* [Karman Taichi](https://github.com/houkensjtu/karman_taichi) - Karman_taichi is an incompressible fluid solver written in the Taichi programming language. 
 * [Liquid simulation](https://github.com/lyd405121/wcsph) - Using Taichi to create SPH simulation. 
 * [LHCSim](https://github.com/Robslhc/LHCSim) - A 3D physics simulation engine based on Taichi.
 * [MLS MPM CPIC](https://github.com/Zhijie-YU/MLS_MPM_CPIC) - An implementation of the CPIC (Compatible Particle-in-Cell) method with Taichi Lang, where MLS-MPM and rigid body collision techniques are adopted.
@@ -194,15 +200,20 @@ A curated list of awesome Taichi applications and courses.
 * [SandyFluid](https://github.com/ethz-pbs21/SandyFluid) - A course project for Physically-Based Simulation in Computer Graphics HS21, ETH Zurich.
 * [SandPile Model](https://github.com/darkwuta/2021_taichi_course_homework) - A dynamic sand mound model.
 * [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
+* [SPH_Taichi](https://github.com/erizmr/SPH_Taichi) - A Taichi implementation of Smooth Particle Hydrodynamics (SPH) simulator. 
 * [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
+* [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi.
 * [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 * [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using taichi's legacy MLS-MPM method for fast fluid sim.
 * [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
 * [Taichi fvm2d fluid ns](https://github.com/hejob/taichi-fvm2d-fluid-ns) - An attempt to exploit the potential of Taichi language in the field of computational simulation of compressible fluids by the finite volume method.
 * [TaichiGraphics2021](https://github.com/PsycoTodd/TaichiGraphics2021) - This is the side work to have fun with Taichi Graphics course 2021.
 * [Taichi HW1 EulerianFluid](https://github.com/JerryYan97/Taichi_HW1_EulerianFluid) - An assignment of Taichi Graphics Course.
+* [TaichiMD](https://github.com/victoriacity/taichimd) - Interactive, GPU-accelerated Molecular (& Macroscopic) Dynamics using the Taichi programming language.
 * [TaichiPIC](https://github.com/bwzhao/TaichiPIC)- A particle-in-cell (PIC) simulation program used in plasma physics.
 * [Taichi Titanic188](https://github.com/runck/Taichi_Titanic188) - An assignment of Taichi Graphics Course.
+* [Taichi Tetris](https://github.com/yuanming-hu/taichi_tetris) - A Tetris game with soft-body simulation implementing the MPM method.
+  
 
 
 
