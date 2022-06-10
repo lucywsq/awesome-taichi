@@ -34,7 +34,7 @@ A curated list of awesome Taichi applications and courses.
 ## **Image Processing**
 
 * [Poisson Image Editing](https://github.com/Trinkle23897/Fast-Poisson-Image-Editing) - A technique for image fusion without producing artifacts. 
-* [Taichi Procedure Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
+* [Taichi Procedural Painting](https://github.com/theYiran/Taichi_Procedure_Painting) - Imitating the painting process by generating images with different brush strokes. A dynamic window shows the comparison between the original image and the generated one.
 
 ## **Math**
 
