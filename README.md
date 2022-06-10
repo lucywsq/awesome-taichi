@@ -65,7 +65,7 @@ A curated list of awesome Taichi applications and courses.
        <img height=“200” src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/math-jpg/polyhedra-mirrors%20.jpg">
     </a>
       
-[Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
+[Taichi Math Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound)
  
 
   </td>
@@ -75,7 +75,7 @@ A curated list of awesome Taichi applications and courses.
   
 * [A jellyfish-like demo](https://github.com/AmamiyaRenn/TaichiCourseS1Hw1) - Modifications based on the Julia Set to produce jellyfish-like effects.
 * [Mandelbrot Viewer](https://github.com/Y7K4/mandelbrot-viewer) - Visualization of the Mandelbrot set with Taichi.
-* [Taichi-Math-Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
+* [Taichi Math Playground](https://github.com/TiGeekMan/Taichi-Math-Playgound) - Some attempts at mathematical visualisation with Taichi.
 
 ## **Machine Learning**
 
