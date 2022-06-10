@@ -2,12 +2,13 @@
 <img src="https://github.com/Taichi-contributor/Awesome-Taichi/blob/main/voxel-art-jpg/Frame%2024%20(1).png" align="center" width="1200" height=“150”>
 
 
-<p align="center">
-   <a href="https://twitter.com/blueaquilae">
-    <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/TaichiGraphics.svg?style=social&label=Follow%20%40TaichiGraphics" />
-  </a>
-   <a href="https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg">
-     <img alt="Slack Widget" src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red" />
+[![Github-widget](https://img.shields.io/github/stars/taichi-dev/taichi?label=Taichi-lang&style=social)](https://github.com/taichi-dev/taichi)
+[![Youtube-widget](https://img.shields.io/youtube/channel/views/UCu-k1Wglo9Ll_o2j5Bxl4cw?label=Taichi%20Graphics&style=social)](https://www.youtube.com/channel/UCu-k1Wglo9Ll_o2j5Bxl4cw)
+[![Twitter-widget](https://img.shields.io/twitter/follow/taichigraphics?style=social)](https://twitter.com/taichigraphics)
+[![Zhihu-widget](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-view-blue)](https://www.zhihu.com/org/tai-ji-tu-xing)
+[![Bilibili-widget](https://img.shields.io/badge/Bilibili-view-blue)](https://space.bilibili.com/1779922645)
+[![Slack-widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](https://join.slack.com/t/taichicommunity/shared_invite/zt-14ic8j6no-Fd~wKNpfskXLfqDr58Tddg)
+
 </p>
    
 
