@@ -202,7 +202,7 @@ A curated list of awesome Taichi applications and courses.
 * [SPH 2D Taichi](https://github.com/MmmmHeee/SPH-2D-Taichi) - An SPH-based 2D fulid simulation (including WCSPH and PCISPH) implmented with Taichi.
 * [SPH Taichi](https://github.com/erizmr/SPH_Taichi) - A Taichi implementation of Smooth Particle Hydrodynamics (SPH) simulator. 
 * [Structure factor](https://github.com/donshen/structure_factor) - Calculating average structure factor from pdb files; implementing CPU-based parallelization using numba and cuda-acceleration by Taichi. 
-* [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - High-performance multi-material continuum physics engine in Taichi.
+* [Taichi Elements](https://github.com/taichi-dev/taichi_elements) - A high-performance multi-material continuum physics engine in Taichi.
 * [Taichi collisional](https://github.com/QirongZhu/taichi_collisional) - An N-body code for star cluster simulations. 
 * [Taichi data factory](https://github.com/tooflesswulf/taichi-data-factory) - Using Taichi's legacy MLS-MPM method for fast fluid sim.
 * [Taichi flocking](https://github.com/SIGUSR97/taichi-flocking) - A simple flocking behavior simulation implemented in Taichi. 
